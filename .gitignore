@@ -1,0 +1,16 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
+
+# 大文件/安装包
+*.exe
+
+# 临时文件
+*.tmp
+
+# 旧仓库备份
+.git_old_backup/
